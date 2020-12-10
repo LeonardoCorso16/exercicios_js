@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+    <script>
+
+        var valorInicial = prompt("Digite o preço inicial: ");
+        var valorFinal = prompt ("Digite o preço atual: ");
+        var diferenca = valorInicial - valorFinal;
+        var inflacao = (diferenca * 100) / valorInicial;
+
+        document.write("A diferença entre os preços e de " + inflacao+ "%")
+       
+
+        const now = new Date();
+        const past = new Date(prompt("Digite o dia atual ('aa-mm-dd': "));
+        const diff = Math.abs(now.getTime() - past.getTime());
+        const days = Math.ceil(diff / (1000 * 60 * 60 * 24)); 
+
+        var inflacaoMedia = inflacao / days;
+    
+        document.write("Entre 07/07/2014 até agora já se passaram " + days + " dias. "  <br> "A inflação média entre eles é de: " +inflacaoMedia);
+        
+        </script>
+    
+</body>
+</html>
