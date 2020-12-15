@@ -1,1 +1,224 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T16:11:01.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.1" etag="xjidpurAY0s1n1qCWo7V" type="github"><diagram id="toIg_ZCgzkm_UzU4ouRI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T16:27:05.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Wvk5Eiw7RHQxhZUQU2yf" version="14.0.1" type="github">
+  <diagram id="toIg_ZCgzkm_UzU4ouRI" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-1" target="cm-kOV7FY1MTogNP-2nX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-1" value="Arnaldo acorda todos os dias 7 horas da manhã" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-3" value="E dia de semana?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-6" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-8" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-9" value="Toma banho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-10" value="Arruma a casa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-15" target="cm-kOV7FY1MTogNP-2nX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-15" value="&#xa;&#xa;Toma café da manhã às 8:00h&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-17" value="Antes de sair de casa, ele verifica a previsão do tempo.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-18" target="cm-kOV7FY1MTogNP-2nX-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-18" value="Vai chover?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="545" as="sourcePoint" />
+            <mxPoint x="413" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-21" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-22" value="Leva o guarda-chuva" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-23" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="720" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-25" target="cm-kOV7FY1MTogNP-2nX-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-25" value="Vá para o trabalho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-26" value="" style="endArrow=classic;html=1;exitX=0.408;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="830" as="sourcePoint" />
+            <mxPoint x="480" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-30" value="&#xa;&#xa;Nos dias da semana vai para a clínica, onde atende até às 13:00 quando para para almoçar&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="870" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-31" target="cm-kOV7FY1MTogNP-2nX-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-31" value="&#xa;&#xa;nos&#xa;finais de semana ele assiste televisão até a hora do almoço&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-32" target="cm-kOV7FY1MTogNP-2nX-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418.5" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1130" />
+              <mxPoint x="420" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-32" value="Segunda terça e quarta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="980" width="123" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-36" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1000" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-37" value="&#xa;&#xa;Às segundas, quartas e sextas ele come peixe,&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1005" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-39" target="cm-kOV7FY1MTogNP-2nX-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-39" value="&#xa;&#xa; nos demais dias ou carne ou salada&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-40" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-42" target="cm-kOV7FY1MTogNP-2nX-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-42" value="&#xa;&#xa;Nos dias da semana trabalha até às 18:00&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-44" value="&#xa;&#xa; nos sábados assiste a filmes e nos domingos estuda e&#xa;lê&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-45" value="A filha chama para jantar?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="1410" width="105" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-48" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-49" value="&#xa;&#xa; ele sai com ela para comer&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-51" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-52" target="cm-kOV7FY1MTogNP-2nX-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-52" value="&#xa;&#xa;Caso contrário, janta em casa.&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-54" target="cm-kOV7FY1MTogNP-2nX-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-54" value="&#xa;&#xa;Todos os dias ele toma banho às 21:00&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-56" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-44" target="cm-kOV7FY1MTogNP-2nX-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="500" as="sourcePoint" />
+            <mxPoint x="290" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-58" value="&#xa;&#xa;Antes de se deitar para dormir, caso esteja cansado, assiste um pouco de televisão, senão, dorme&#xa;direto&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1830" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cm-kOV7FY1MTogNP-2nX-60" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="cm-kOV7FY1MTogNP-2nX-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="315" as="sourcePoint" />
+            <mxPoint x="350" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
