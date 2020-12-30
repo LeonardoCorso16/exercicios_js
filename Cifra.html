@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifra</title>
+</head>
+<body>
+    <script>
+        var mensagem = prompt ("Mensagem? ");
+        var deslocamento = prompt ("Deslocamento? ");
+        function cifraCesar(mensagem , deslocamento){
+            var mensagemMudada = [];
+            mensagem = mensagem.toLowerCase();
+
+            for (var i=0; i < mensagem.lenght; i++){
+                console.log("Sem modificação: " + mensagem[i]);
+                console.log("Codigo: " + mensagem.charCodeAt(i));
+                mensagemMudada.push(String.fromCharCode((mensagem.charCodeAt(i)) + (deslocamento % 26)));
+                console.log ("Com modificação: " +mensagemMudada[i]);
+            }
+            console.log("Sua mensagem mudada foi: " + mensagemMudada);
+
+        }
+        cifraCesar (mensagem, deslocamento);
+    </script>
+    
+</body>
+</html>
